@@ -1,0 +1,16 @@
+body {
+    font-family: Tahoma;
+}
+
+input, textarea {
+    width: 100%;
+    margin: 4px auto;
+}
+
+fieldset {
+    margin-bottom: 16px;
+}
+
+input[type="terms-and-conditions"] {
+    width: unset;
+}
